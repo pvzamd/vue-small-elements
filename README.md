@@ -30,6 +30,10 @@ pnpm build
 
 ### Lint with [ESLint](https://eslint.org/)
 
+
 ```sh
 pnpm lint
 ```
+
+
+### Live link: https://tranquil-dusk-a0bb16.netlify.app/
